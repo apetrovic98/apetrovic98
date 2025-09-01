@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on health-care projects<br>👯 I’m looking to collaborate on new interesting projects<br>🌱 I’m currently learning Spring Cloud, Docker, Jenkins and Kubernetes<br>💬 Ask me about everything<br>
+🔭 I’m currently working on health-care projects<br>👯 I’m looking to collaborate on new interesting projects<br>🌱 I’m currently learning Spring Cloud, Docker, Jenkins and Kubernetes<br>💬 Ask me about anything<br>
 
 
 ## 🌐 Socials:
